@@ -91,7 +91,7 @@
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(905, 44);
+            this.label3.Location = new System.Drawing.Point(1244, 38);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(108, 41);
             this.label3.TabIndex = 4;
@@ -103,7 +103,7 @@
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(877, 85);
+            this.label4.Location = new System.Drawing.Point(1216, 79);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(162, 41);
             this.label4.TabIndex = 5;
@@ -115,7 +115,7 @@
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(887, 144);
+            this.label5.Location = new System.Drawing.Point(1226, 138);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(137, 41);
             this.label5.TabIndex = 6;
@@ -127,7 +127,7 @@
             this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(877, 185);
+            this.label6.Location = new System.Drawing.Point(1216, 179);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(160, 41);
             this.label6.TabIndex = 7;
@@ -139,7 +139,7 @@
             this.label7.BackColor = System.Drawing.Color.Transparent;
             this.label7.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(816, 226);
+            this.label7.Location = new System.Drawing.Point(1155, 220);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(287, 41);
             this.label7.TabIndex = 8;
@@ -165,10 +165,10 @@
             this.buttonZamknij.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonZamknij.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.buttonZamknij.ForeColor = System.Drawing.Color.White;
-            this.buttonZamknij.Location = new System.Drawing.Point(940, 581);
+            this.buttonZamknij.Location = new System.Drawing.Point(1153, 766);
             this.buttonZamknij.Name = "buttonZamknij";
             this.buttonZamknij.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.buttonZamknij.Size = new System.Drawing.Size(220, 60);
+            this.buttonZamknij.Size = new System.Drawing.Size(325, 75);
             this.buttonZamknij.TabIndex = 10;
             this.buttonZamknij.Text = "Zamknij";
             this.buttonZamknij.UseVisualStyleBackColor = false;
@@ -182,10 +182,10 @@
             this.buttonOblicz.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonOblicz.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.buttonOblicz.ForeColor = System.Drawing.Color.White;
-            this.buttonOblicz.Location = new System.Drawing.Point(685, 581);
+            this.buttonOblicz.Location = new System.Drawing.Point(786, 766);
             this.buttonOblicz.Name = "buttonOblicz";
             this.buttonOblicz.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.buttonOblicz.Size = new System.Drawing.Size(220, 60);
+            this.buttonOblicz.Size = new System.Drawing.Size(325, 75);
             this.buttonOblicz.TabIndex = 11;
             this.buttonOblicz.Text = "Oblicz";
             this.buttonOblicz.UseVisualStyleBackColor = false;
@@ -199,10 +199,10 @@
             this.buttonWyczysc.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonWyczysc.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.buttonWyczysc.ForeColor = System.Drawing.Color.White;
-            this.buttonWyczysc.Location = new System.Drawing.Point(430, 581);
+            this.buttonWyczysc.Location = new System.Drawing.Point(419, 766);
             this.buttonWyczysc.Name = "buttonWyczysc";
             this.buttonWyczysc.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.buttonWyczysc.Size = new System.Drawing.Size(220, 60);
+            this.buttonWyczysc.Size = new System.Drawing.Size(325, 75);
             this.buttonWyczysc.TabIndex = 12;
             this.buttonWyczysc.Text = "Wyczyść";
             this.buttonWyczysc.UseVisualStyleBackColor = false;
@@ -214,7 +214,7 @@
             this.label8.BackColor = System.Drawing.Color.Transparent;
             this.label8.Font = new System.Drawing.Font("Comic Sans MS", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label8.ForeColor = System.Drawing.Color.White;
-            this.label8.Location = new System.Drawing.Point(610, 544);
+            this.label8.Location = new System.Drawing.Point(12, 729);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(550, 25);
             this.label8.TabIndex = 13;
@@ -227,7 +227,7 @@
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackgroundImage = global::Szablon_Aplikacji.Properties.Resources.tlo2;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1182, 653);
+            this.ClientSize = new System.Drawing.Size(1482, 853);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.buttonWyczysc);
             this.Controls.Add(this.buttonOblicz);
